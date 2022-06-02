@@ -1,0 +1,4 @@
+_locale: "fr"
+_namespace: "Test"
+
+helloWorld: "Bonjour"
